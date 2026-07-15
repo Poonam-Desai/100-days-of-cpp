@@ -7,3 +7,7 @@ Documenting my journey from Kolhapur to Placement 2027 💪
 ## Day 2 - 14 July 2026  
 - [sum.cpp](sum.cpp) - Sum of two numbers
 - [star.cpp](star.cpp) - Star pattern
+
+    ### Day 3: Even or Odd
+    **Concept:** Modulus operator `%` use karun number even aahe ka odd he check kela.
+    **Key Learning:** `if-else` statement + `% 2 == 0`
