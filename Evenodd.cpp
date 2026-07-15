@@ -11,7 +11,7 @@ int main() {
         cout << num << " is Even Number" << endl;
     } 
     else {
-        cout << << num << " is Odd Number" << endl;
+        cout << num << " is Odd Number" << endl;
     }
     
     return 0;
